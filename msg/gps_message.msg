@@ -1,0 +1,16 @@
+string name
+int32 time
+float32 latitude
+string lat_direction
+float32 longitude
+string long_direction
+int32 fix_qual
+int32 num_sats
+float32 horz_dilut
+string horz_unit
+float32 altitude
+string alt_unit
+float32 geoid
+string geoid_unit
+time last_update
+int32 station_ID
